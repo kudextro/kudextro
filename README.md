@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kudextro
+- 👋 Hi, I’m @amon
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html,css,javascript
 - 😄 Pronouns: he/him
